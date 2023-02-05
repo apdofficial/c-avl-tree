@@ -1,0 +1,13 @@
+p
+i 15 a
+i 10 b
+i 20 c
+i 17 d
+i 25 e
+p
+e 25 e
+p
+i 25 e
+p
+e 10 b
+p

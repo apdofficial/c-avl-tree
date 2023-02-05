@@ -1,0 +1,1 @@
+/home/yujie/Documents/AFLplusplus/afl-clang-fast    CMakeFiles/test_tree.dir/test_tree.c.o  -o test_tree  ../src/libtree.a 

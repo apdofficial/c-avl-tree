@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../tree/inc/tree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/yujie/CLionProjects/ss21-team-9-sorted-tree-c/tree/tests/test_tree.c
+stdio.h
+-
+stdlib.h
+-
+tree.h
+/home/yujie/CLionProjects/ss21-team-9-sorted-tree-c/tree/tests/tree.h
+

@@ -1,0 +1,1 @@
+/home/yujie/Documents/AFLplusplus/afl-clang-fast    CMakeFiles/main.dir/main.c.o  -o main   -L/home/yujie/CLionProjects/ss21-team-9-sorted-tree-c/tree/src  -Wl,-rpath,/home/yujie/CLionProjects/ss21-team-9-sorted-tree-c/tree/src ../../tree/src/libtree.a 
